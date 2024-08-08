@@ -1,6 +1,7 @@
 # clima_app
 
 A new Flutter project.
+A weather App
 
 ## Getting Started
 
